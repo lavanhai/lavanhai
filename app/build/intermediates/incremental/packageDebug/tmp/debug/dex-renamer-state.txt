@@ -1,0 +1,4 @@
+#Thu Mar 28 14:05:57 ICT 2019
+base.0=C\:\\Users\\Admin\\AndroidStudioProjects\\QL_Lich_Hoc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
