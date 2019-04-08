@@ -4,7 +4,13 @@
 This is the java code about balan algorithm convert infix to postfix and calculated values. I also build a jar file library for the other Project.
 We can carry out simple expression as +, -, *, / and complex as the square root 2, square root n th root, calculate the value of expression with parentheses, combinatorial, unconformity,...
  
-![alt tag](https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-9/53582122_1113550045494024_5279065803843436544_n.jpg?_nc_cat=106&_nc_oc=AQmMOC41RAFITrSUGxPc8PxIV77Pxxo_0WQN958r1OxgGUGcFZYxHXwdbI9aBw6-32A&_nc_ht=scontent.fhan3-3.fna&oh=889b1a014ceb8becd1a771e8de8407d6&oe=5D413AAF)
+![alt tag](https://www.mediafire.com/view/dg225cv2t5dg23s/1.png/file)
+![alt tag](https://www.mediafire.com/view/mncufub4ml19c5c/2.png/file)
+![alt tag](https://www.mediafire.com/view/t5gcg9rnisip030/3.png/file)
+![alt tag](https://www.mediafire.com/view/iv74mg6d4p66312/4.png/file)
+![alt tag](https://www.mediafire.com/view/0d99tb04lld2fjz/5.png/file)
+![alt tag](https://www.mediafire.com/view/j0t3gu3539f0d3j/6.png/file)
+![alt tag](https://www.mediafire.com/view/h1xr7t3fkidxest/7.png/file)
  
 Example code to use
  
