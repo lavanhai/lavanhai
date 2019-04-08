@@ -4,9 +4,9 @@
 This is the java code about balan algorithm convert infix to postfix and calculated values. I also build a jar file library for the other Project.
 We can carry out simple expression as +, -, *, / and complex as the square root 2, square root n th root, calculate the value of expression with parentheses, combinatorial, unconformity,...
  
-![alt tag](https://www.mediafire.com/view/dg225cv2t5dg23s/1.png/file)
-![alt tag](https://www.mediafire.com/view/mncufub4ml19c5c/2.png/file)
-![alt tag](https://www.mediafire.com/view/t5gcg9rnisip030/3.png/file)
+![alt tag](https://www.mediafire.com/view/dg225cv2t5dg23s/1.png)
+![alt tag](https://www.mediafire.com/view/mncufub4ml19c5c/2.png)
+![alt tag](https://www.mediafire.com/view/t5gcg9rnisip030/3.png)
 ![alt tag](https://www.mediafire.com/view/iv74mg6d4p66312/4.png/file)
 ![alt tag](https://www.mediafire.com/view/0d99tb04lld2fjz/5.png/file)
 ![alt tag](https://www.mediafire.com/view/j0t3gu3539f0d3j/6.png/file)
